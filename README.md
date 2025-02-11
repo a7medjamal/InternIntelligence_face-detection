@@ -1,6 +1,6 @@
 # face_detection_app
 
-A new Flutter project.
+A face detection app that uses google face detection mlkit
 
 ## Getting Started
 
